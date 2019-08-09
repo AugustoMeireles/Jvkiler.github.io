@@ -2,7 +2,7 @@
 title:  "Sorvete"
 subtitle: "But do you scream?"
 author: "josé"
-avatar: "img/authors/wferr.png"
+avatar: "img/authors/Wferr.jpg"
 image: "img/e.jpg"
 date:   2015-04-24 12:12:12
 ---
