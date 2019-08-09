@@ -4,12 +4,12 @@ subtitle: "The game!"
 author: "José"
 avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
-date:   2015-04-20 12:12:12
+date:   2019-08-09 12:12:12
 ---
 
-### which is ?
-
-The Last Light is a game that has been in development for about two years and is slowly being produced for a better quality experience.
+### Which is ?
+  
+  The Last Light is a game that has been in development for about two years and is slowly being produced for a better quality experience.
 It's a turn based RPG game with classic graphics and patterns, with a stunning story.
 
 ### The story.
