@@ -18,5 +18,7 @@ The story takes place in a world where to prevent the world from going into tota
 The chosen one is born every thirty years and at the age of eighteen must be guided to death by the four holy knights.
 However, a terrible truth lurks behind this legend.
 
-# images in readme
-![](img/filename%20g.png)
+# Images In ReadMes
+![g](https://user-images.githubusercontent.com/53841150/62815412-011ae280-baef-11e9-86d0-2ddd3654582c.png)
+
+![](img/g.png)
