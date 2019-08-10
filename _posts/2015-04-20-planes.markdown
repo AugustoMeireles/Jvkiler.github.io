@@ -19,4 +19,4 @@ The chosen one is born every thirty years and at the age of eighteen must be gui
 However, a terrible truth lurks behind this legend.
 
 # images in readme
-![](images/filename%20g.png)
+![](img/filename%20g.png)
