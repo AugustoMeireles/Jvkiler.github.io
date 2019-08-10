@@ -30,3 +30,6 @@ Although chess can also be included in a mental activity (like Curling and some 
 5) In VERY fast games like 5 minute matches, players often sweat and a few seconds can make a difference in the outcome of the game.
 
 In conclusion, chess is an individual sport that closely resembles sports such as fencing, where fencing is replaced by pieces.
+
+![image](https://user-images.githubusercontent.com/53841150/62822220-d4021a80-bb56-11e9-85a7-ee4fd6f08ddc.png)
+
