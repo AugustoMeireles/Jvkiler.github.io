@@ -17,4 +17,3 @@ It's a turn based RPG game with classic graphics and patterns, with a stunning s
 The story takes place in a world where to prevent the world from going into total darkness, it is necessary to offer a sacrifice to the Demon who lives on the holy mountain.
 The chosen one is born every thirty years and at the age of eighteen must be guided to death by the four holy knights.
 However, a terrible truth lurks behind this legend.
-![Lucas the last](https://user-images.githubusercontent.com/53841150/62814614-0e809e80-bae8-11e9-9cf7-01be04989a95.png)
