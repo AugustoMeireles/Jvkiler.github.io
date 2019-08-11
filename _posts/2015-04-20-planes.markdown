@@ -19,3 +19,5 @@ The chosen one is born every thirty years and at the age of eighteen must be gui
 However, a terrible truth lurks behind this legend.
 
 [![To check out the trailer just click on the image below](![Sem título](https://user-images.githubusercontent.com/53841150/62828356-b5ce0600-bbba-11e9-9493-f5379329fd9d.png))](https://www.youtube.com/watch?v=wzYGMRjll5I&t=23s")
+
+[![To check out the trailer just click on the image below](https://user-images.githubusercontent.com/53841150/62828356-b5ce0600-bbba-11e9-9493-f5379329fd9d.png)]((https://www.youtube.com/watch?v=wzYGMRjll5I&t=23s "Everything Is AWESOME")
