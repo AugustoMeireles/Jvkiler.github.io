@@ -19,3 +19,5 @@ The game was developed in 2017 for my work on "Teaching Practice 1"
 Initially the language is Portuguese, but it is already possible to play in English.
 
 In 2019-2020 I am doing a remake of the game, now that I have more advanced knowledge, I am doing it turns into an even more satisfying experience.
+
+![tenor (1)](https://user-images.githubusercontent.com/53841150/62828276-5a027d80-bbb8-11e9-83dd-0517e99e1c05.gif)
