@@ -13,6 +13,9 @@ The game was spreading rapidly through Russia and China. In the fifteenth centur
 From then on studies and clubs related to the game began to emerge studies and clubs linked to the practice, until the first tournaments began.
 Chess is a very good game to play, because in addition to training your logical thinking, it will make you more focused, helps to make the brain fit, among other advantages.
 
+![xadrez-historia](https://user-images.githubusercontent.com/53841150/62822103-39550c00-bb55-11e9-9c15-1f8a62c88426.jpg)
+
+
 ### Is chess a sport?.
 Although chess can also be included in a mental activity (like Curling and some other sports that also require a lot of concentration and strategy), chess has all the characteristics of a sport:
 
@@ -27,3 +30,6 @@ Although chess can also be included in a mental activity (like Curling and some 
 5) In VERY fast games like 5 minute matches, players often sweat and a few seconds can make a difference in the outcome of the game.
 
 In conclusion, chess is an individual sport that closely resembles sports such as fencing, where fencing is replaced by pieces.
+
+![image](https://user-images.githubusercontent.com/53841150/62822220-d4021a80-bb56-11e9-85a7-ee4fd6f08ddc.png)
+
