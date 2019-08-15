@@ -31,5 +31,5 @@ Although chess can also be included in a mental activity (like Curling and some 
 
 In conclusion, chess is an individual sport that closely resembles sports such as fencing, where fencing is replaced by pieces.
 
-![image](https://user-images.githubusercontent.com/53841150/62822220-d4021a80-bb56-11e9-85a7-ee4fd6f08ddc.png)
 
+![tenor](https://user-images.githubusercontent.com/53841150/63096223-ba404900-bf43-11e9-9d72-8adf20fd27ab.gif)
