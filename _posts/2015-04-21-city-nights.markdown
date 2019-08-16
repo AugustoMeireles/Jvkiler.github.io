@@ -1,6 +1,6 @@
 ---
 title:  "The chess."
-subtitle: "Meet this wonderful game."
+subtitle: "The use of chess in mathematical teaching."
 author: "José"
 avatar: "img/authors/wferr.png"
 image: "img/b.jpg"
@@ -31,5 +31,13 @@ Although chess can also be included in a mental activity (like Curling and some 
 
 In conclusion, chess is an individual sport that closely resembles sports such as fencing, where fencing is replaced by pieces.
 
-
 ![tenor](https://user-images.githubusercontent.com/53841150/63096223-ba404900-bf43-11e9-9d72-8adf20fd27ab.gif)
+
+<textarea style="text-align: center;width:100%;height:90px;background-color:grey;color:black;border:none;padding:2%;font:22px/30px sans-serif;"> 
+The use of chess in mathematical teaching
+</textarea> 
+
+This is an extension project, the idea of ​​which is to explore the possibilities of teaching using chess.
+Initially it is being based on two books and some articles with the same theme.
+As it is still in the beginning there is not much information
+
