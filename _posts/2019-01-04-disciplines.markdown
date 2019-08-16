@@ -1,7 +1,7 @@
 ---
-title:  "Courses"
-subtitle: "Disciplines Offered"
-author: "Fernando Bastos"
+title:  "Schedule"
+subtitle: "My schedules"
+author: "José"
 image: "img/teaching/Disciplinas.jpg"
 ---
 
@@ -11,40 +11,16 @@ ______________________________________
 </textarea>
 ______________________________________
 
-[Matemática Computacional]
+[Planejamento]
 
-<img src="img//icons//aluno.svg" width="30" height="30" /> - Prof. Fernando Bastos
+<img src="img//icons//aluno.svg" width="30" height="30" /> - Alun. José Vitor
 
-<img src="img//icons//relogio.png" width="30" height="30" /> - 60 horas
-
-<img src="img//icons//UFV.jpg" width="30" height="30" /> - Universidade Federal de Viçosa  
-
-<img src="img//icons//cursos.jpg" width="30" height="30" /> - Turma 1: Terça 10h00min-11h40min e Quinta 10h00-11h40min
-
-______________________________________
-
-[Álgebra Linear A]
-
-<img src="img//icons//aluno.svg" width="30" height="30" /> - Prof. Fernando Bastos
-
-<img src="img//icons//relogio.png" width="30" height="30" /> - 60 horas
+<img src="img//icons//relogio.png" width="30" height="30" /> - 83 week hours
 
 <img src="img//icons//UFV.jpg" width="30" height="30" /> - Universidade Federal de Viçosa  
 
-<img src="img//icons//cursos.jpg" width="30" height="30" /> - Turma 1: Terça 13h00min-14h40min e Quinta 15h00-16h40min
+<img src="img//icons//cursos.jpg" width="30" height="30" /> Routine
 
-______________________________________
-
-
-[Recursos Computacionais no Ensino de Matemática]
-
-<img src="img//icons//aluno.svg" width="30" height="30" /> - Prof. Fernando Bastos
-
-<img src="img//icons//relogio.png" width="30" height="30" /> - 80 horas
-
-<img src="img//icons//UFV.jpg" width="30" height="30" /> - Universidade Federal de Viçosa  
-
-<img src="img//icons//cursos.jpg" width="30" height="30" /> - As sextas e sabádos em horários alternados com a disciplina de Geometria II.
 
 ______________________________________
 <textarea style="text-align: center;width:100%;height:90px;background-color:grey;color:black;border:none;padding:2%;font:22px/30px sans-serif;">
