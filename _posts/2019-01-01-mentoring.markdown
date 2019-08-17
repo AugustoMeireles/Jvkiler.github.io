@@ -1,5 +1,5 @@
 ---
-title:  "Academical Mentoring"
+title:  "Future projects"
 #subtitle: "Only lights from space"
 author: "José Vitor"
 image: "img/mentoring/mentoring.jpg"
