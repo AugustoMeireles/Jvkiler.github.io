@@ -29,7 +29,7 @@ O uso da Estatistica e Probabilidade  na criação de jogos.
 
 ______________________________________
 <textarea style="text-align: center;width:100%;height:90px;background-color:grey;color:black;border:none;padding:2%;font:22px/30px sans-serif;">
-2013
+2020
 </textarea>
 ______________________________________
 
